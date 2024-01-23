@@ -1,6 +1,4 @@
-
-![image](https://github.com/Leonardo-Reyes-Munoz/Leonardo-Reyes-Munoz/assets/112450932/f0e29cec-d61f-4a80-87df-2954d688d0e7)
-
+![image](https://github.com/Leonardo-Reyes-Munoz/Leonardo-Reyes-Munoz/assets/112450932/4bdee06c-9d0e-4861-b8c8-6378cf1c6459)
 
 I believe software applications can provide low-cost/highly-scalable solutions to real world problems. From helping us manage our day-to-day, or helping us reach our financial or health goals, to helping us analyze complex genetic data to help enhance our understanding of inherited diseases. 
 
