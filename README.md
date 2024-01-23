@@ -2,7 +2,7 @@
 
 ## I believe software applications can provide low-cost/highly-scalable solutions to real world problems. 
 
-Wether helping us manage our day-to-day, or helping us reach our financial or health goals, to helping us analyze complex genetic data to help enhance our understanding of inherited diseases. Well though-out software can help-us implement equitable solutions. 
+Wether helping us manage our day-to-day, helping us reach our financial or health goals, to helping us analyze complex genetic data to help enhance our understanding of inherited diseases. Well though-out software can help-us implement equitable solutions. 
 
 + 🧑🏾‍💻 I'm currently working on developing a full-stack MERN todo-list application. 
 + 🌱 I am consistently working on improving my JavaScript knowledge. In particular around the React.js and Node.js runtime environment. Aiming to tackle the world of Python next!
